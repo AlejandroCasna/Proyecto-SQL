@@ -1,3 +1,6 @@
+
+![gift]()
+
 # MovieMania
 Se nos ha encargado el desarrollo de un sistema de gestión para una tienda de peliculas llamada "MovieMania". El cliente nos ha proporcionado una serie de archivos CSV que contienen información sobre las peliculas, clientes y transacciones de la tienda. Nuestra tarea es crear una base de datos relacional que permita llevar un control eficiente del negocio.
 Aunque el cliente no ha especificado restricciones, nos ha informado que los amantes de las peliculas suelen ser muy detallistas y aprecian una organización impecable. Por lo tanto, es crucial que la estructura de la base de datos esté bien planificada y organizada.
