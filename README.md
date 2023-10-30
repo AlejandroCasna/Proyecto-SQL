@@ -12,5 +12,8 @@ Durante la limpieza encontramos datos sin valor para el objetivo final, las cual
 De la limpieza y exploración de los datos recabamos ciertas conclusiones útiles de cara a la construcción de la base de datos. Una de estas ideas es que, a pesar de que haya 1000 títulos categorizados, en almacen existen 1000 items que corresponden a 207 títulos y que estan distribuidos a lo largo de dos tiendas.
 Una vez tratado los archivos lo exportamos a MySQL, donde empezamos a relacionar la estructura de tablas.
 
+* # Relacion
+Después de aplicar un tratamiento adicional en SQL, hemos establecido las claves primarias y hemos establecido relaciones entre las claves foráneas. La estructura de datos está ahora completamente definida y las relaciones han sido correctamente establecidas.
 
-![nombre para la imagen](url de la imagen)
+  
+![Estructura](https://github.com/AlejandroCasna/Proyecto-SQL/blob/main/Imagenes/Estructura.png)
