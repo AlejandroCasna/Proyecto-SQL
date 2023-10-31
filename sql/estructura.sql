@@ -36,10 +36,15 @@ ALTER TABLE actor
     ALTER TABLE rental
     MODIFY COLUMN customer_id INT;
 
+
+
 -- crear las premary key --
 
 ALTER TABLE actor
 ADD PRIMARY KEY (actor_id);
+
+ALTER TABLE customer
+ADD PRIMARY KEY (customer_id);
 
 ALTER TABLE film
 ADD PRIMARY KEY (film_id);
